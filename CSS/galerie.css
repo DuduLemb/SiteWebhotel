@@ -1,0 +1,55 @@
+/*
+  Style de la page galerie
+  Date:04/06/24
+*/
+.head{
+    height: 392px;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../IMG/Backg8.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+}
+.chambrs{
+    height: 70px;
+    background-color: black;
+    width: 1028px;
+}
+.titlq{
+    color: darkgoldenrod;
+    margin-left: 0px;
+    margin-top: 15px;
+    font-family: cursive;
+    font-size: 30px;
+}
+.cha{
+    height: 180px;
+    background-color: darkgoldenrod;
+    width: 1028px;
+}
+.a{
+    height: 180px;
+    width: 160px;
+}
+.b{
+    height: 180px;
+    width: 160px;
+
+}
+.c{
+    height: 180px;
+    width: 160px;
+}
+.int{
+    height: 180px;
+    background-color: darkgoldenrod;
+    width: 1028px;
+}
+.d{
+    height: 180px;
+    width: 409px;
+}
+.e{
+    height: 180px;
+    width: 409px;
+}

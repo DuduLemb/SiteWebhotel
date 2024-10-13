@@ -1,0 +1,28 @@
+.bi{
+    height: 100px;
+    background-color: black;
+}
+.be{
+    height: 250px;
+    background-color: black;
+}
+.bt{
+    height: 250px;
+    background-color: darkgoldenrod;
+}
+.vu{
+    margin-left: 200px;
+    margin-top: 70px;
+}
+.zu{
+    margin-left: 210px;
+    margin-top: 40px;
+}
+.eu{
+    text-decoration: none;
+    color: inherit;
+  }
+.eu:hover{
+    text-decoration: none;
+    color: inherit;
+  }

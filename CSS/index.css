@@ -1,0 +1,75 @@
+/*
+  Style de la page d'accueil
+  Date:04/06/24
+*/
+.head{
+    height: 392px;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../IMG/Backg7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+}
+.cham{
+    height: 240px;
+    width: 1028px;
+    background-color: black;  
+}
+.ch{
+  width: 256px;
+  height: 150px;
+}
+.ci{
+  width: 244px;
+  height: 150px;
+  margin-right: 40px;
+}
+.suit{
+  height: 240px;
+  width: 1028px;
+  background-color: black;  
+}
+.sui{
+  width: 256px;
+  height: 150px;
+}
+.suie{
+  width: 244px;
+  height: 150px;
+  margin-right: 40px;
+}
+.desc{
+  left: 30px;
+  padding: 10px;
+  color: white;
+  font-size: 15px;
+}
+.desci{
+  left: 30px;
+  padding: 10px;
+  color: white;
+  font-size: 15px;
+}
+.rese{
+  height: 100px;
+  background-color: black;
+}
+.res{
+  color: darkgoldenrod;
+  margin-left: 60px;
+  margin-top: 25px;
+  font-family: cursive;
+  font-size: 30px;
+}
+.but{
+  margin-top: 27px;
+  margin-left: 100px;
+}
+.bu{
+  text-decoration: none;
+  color: inherit;
+}
+.bu:hover{
+  text-decoration: none;
+  color: inherit;
+}

@@ -1,0 +1,93 @@
+/*
+  Style générale du style
+  Date:04/06/24
+*/
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 90px;
+    height: 70px;
+}
+.he{
+    background-color: black;
+    height: 70px;
+    width: 1026px;
+}
+.topnav {
+    background-color: black;
+    overflow: hidden;
+    margin-left: 30px;
+}
+  
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+  
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: darkgoldenrod;
+    color: white;
+}
+.titl{
+  color: darkgoldenrod;
+  margin-top: 140px;
+  font-family: 'titre';
+  font-size: 70px;
+  margin-right: 50px;
+}
+.titly{
+    color: darkgoldenrod;
+    margin-top: 140px;
+    font-family: 'titre';
+    font-size: 60px;
+    margin-left: 50px;
+  }
+.titlo{
+    color: darkgoldenrod;
+    margin-top: 140px;
+    font-family: 'titre';
+    font-size: 60px;
+    margin-left: 100px;
+}  
+@font-face {
+    font-family: 'titre';
+    src: url("../Fonts/comic.ttf") format('truetype');
+}
+#listicones li{
+    display:inline;
+    
+}
+#listicones{
+    padding: 10px 20px;
+    margin-left: 40px;
+    
+    
+}
+
+.conta{
+    background-color: darkgoldenrod;
+    color: black;
+    font-family: cursive;
+
+}
+.icones{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+    
+}

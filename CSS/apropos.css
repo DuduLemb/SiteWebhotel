@@ -1,0 +1,48 @@
+/*
+  Style de la page a propos
+  Date:04/06/24
+*/
+.head{
+    height: 392px;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../IMG/Backg10.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+}
+.wu{
+  height: 180px;
+  width: 1028px;
+}
+.we{
+  background-color: black;
+  color: darkgoldenrod;
+  
+}
+.wk{
+  margin-top: 70px;
+  margin-left: 60px;
+  font-family: cursive;
+  font-size: 22px;
+}
+.wi{
+  padding: 20px ;
+  background-color: darkgoldenrod;
+  color: black;
+}
+.wj{
+  height: 720px;
+}
+.je{
+  background-color: darkgoldenrod;
+  color: black;
+  
+}
+.ji{
+  padding: 20px ;
+  background-color: black;
+  color: darkgoldenrod;
+}
+.wt{
+  height: 100px;
+}

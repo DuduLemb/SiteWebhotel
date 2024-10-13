@@ -1,0 +1,36 @@
+.bi{
+    height: 100px;
+    background-color: black;
+}
+.bt{
+    height: 900px;
+    background-color: darkgoldenrod;
+}
+.be{
+    height: 900px;
+    background-color: black;
+}
+.le{
+    font-family: cursive;
+    font-size: 24px;
+    margin-left: 90px;
+  }
+  label{
+    font-family: cursive;
+    font-size: 20px;
+  }
+  .ju{
+    text-decoration: none;
+    color: white;
+  }
+  .ju:hover{
+    text-decoration: none;
+    color: inherit;
+  }
+  .yu{
+    margin-top: 40px;
+    margin-left: 20px;
+    
+  }
+  
+  

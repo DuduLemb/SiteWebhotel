@@ -1,0 +1,55 @@
+/*
+  Style de la page reservation
+  Date:04/06/24
+*/
+.head{
+    height: 392px;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../IMG/Backg9.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+}
+
+
+.wrapper{
+  height: 900px;
+  width: 500px;
+  background-color: darkgoldenrod;
+  color: black;
+  border-radius: 10px;
+  padding: 30 40px;
+}
+
+.la{
+  width: 1028px;
+  height: 100px;
+  background-color: black;
+}
+.li{
+  background-color: black;
+  width: 1028px;
+}
+.le{
+  font-family: cursive;
+  font-size: 24px;
+  margin-left: 90px;
+}
+label{
+  font-family: cursive;
+  font-size: 20px;
+}
+.ju{
+  text-decoration: none;
+  color: none;
+}
+.ju:hover{
+  text-decoration: none;
+  color: inherit;
+}
+.yu{
+  margin-top: 40px;
+  margin-left: 20px;
+  
+}
+
